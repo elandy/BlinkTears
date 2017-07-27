@@ -1,0 +1,6 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive cache="shotspeed firedelay" gfx="collectible_blink_tears.png"
+             name="Blink Tears" description="Blink attack. If you get stuck, press X"/>
+    <!--<active  maxcharges="0" gfx="collectible_executioner.png"-->
+             <!--name="Executioner" description="Raise your combo multiplier to execute enemies."/>-->
+</items>
