@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+    <costume anm2path="animation_costume_blinktears.anm2" priority = "96" type="none" />
+</costumes>

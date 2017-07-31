@@ -29,7 +29,7 @@ local function start()
 	--Blink tears init
 	------------------
 	ENTITIES.BLINK_TEAR = alphaMod:getEntityConfig("Blink Tear", 0)
-	ITEMS.PASSIVE.BLINK_TEARS = alphaMod:registerItem("Blink Tears")
+	ITEMS.PASSIVE.BLINK_TEARS = alphaMod:registerItem("Blink Tears", "gfx/characters/animation_costume_blinktears.anm2")
 	alphaMod:addCallback(AlphaAPI.Callbacks.ENTITY_APPEAR, BlinkTears.tearAppear, EntityType.ENTITY_TEAR)
     ENTITY_FLAGS = {
         BLINK_TEAR = AlphaAPI.createFlag()
