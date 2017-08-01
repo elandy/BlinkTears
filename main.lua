@@ -64,7 +64,7 @@ function BlinkTears:cacheUpdate(player, cacheFlag)
 end
 
 function BlinkTears:captureKeys()
-	if (Input.IsButtonTriggered(Keyboard.KEY_X , 0)) then
+	if (Input.IsButtonTriggered(Keyboard.KEY_R , 0)) then
 		local room = AlphaAPI.GAME_STATE.ROOM
 		if room:GetAliveEnemiesCount() == 0 then
 			sfxManager:Play(SoundEffect.SOUND_HELL_PORTAL2 , 1.0, 0, false, 1.0);
