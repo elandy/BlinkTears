@@ -22,7 +22,11 @@ Adds the Blink tears passive item to pools: Boss, Treasure, Shop and Greed Mode 
 
 Works with Incubus and other tear shooting familiars.
 Works great with orbitals and creep spawning items.
-Overriden by lasers, Brimstone and Ludovico Technique.
+Overridden by lasers, Brimstone and Ludovico Technique.
+
+**Installation**
+
+Move the BlinkTears folder (where this document is located) to your game's mods folder (normally, located on C:\Users\username\Documents\My Games\Binding of Isaac Afterbirth+ Mods)
 
 **Notes**
 
