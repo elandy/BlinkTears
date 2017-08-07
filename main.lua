@@ -139,7 +139,7 @@ function BlinkTears.triggerBlink(enemy, damage_amount, damage_flag, damage_sourc
 end
 
 function BlinkTears.fireLaserFromTo(from, to, player)
-	ToFromVector = to - from
+	ToFromVector = from - to
 	laser = player:FireTechLaser(to, LaserOffset.LASER_TECH1_OFFSET , ToFromVector:Normalized(), false, false)
 	laser:SetMaxDistance(ToFromVector:Length())
 	laser:SetColor(blueLaserColor, 1000, 1, false, false)
