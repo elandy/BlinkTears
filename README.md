@@ -8,7 +8,7 @@ This item was inspired by playing too much Portal and by the Blink attack from t
 
 **Features**
 
-Adds the Blink tears passive item to pools: Boss, Treasure, Shop and Greed Mode Shoop. Its effects are:
+Adds the Blink tears passive item to pools: Boss, Treasure, Shop and Greed Mode Shop. Its effects are:
 
     -Player shoots “Blink Tears” every certain amount of normal tears, depending on luck (like Lead Pencil).
     -Blink Tears switch position between player and enemy.
